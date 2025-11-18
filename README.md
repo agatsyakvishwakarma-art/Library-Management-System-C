@@ -26,7 +26,6 @@ Designed as a simple, menu-driven program ideal for learning file operations and
 ├── main.c            // Source code
 ├── books.dat         // Main book database
 ├── temp.dat          // Used for edit/delete operations
-└── delete.dat        // Stores deleted books
 ```
 
 ---
